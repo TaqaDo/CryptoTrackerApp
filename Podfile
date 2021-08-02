@@ -8,6 +8,10 @@ target 'CryptoTrackerApp' do
   # Pods for CryptoTrackerApp
 
 	pod 'SnapKit'
+	pod 'Kingfisher'
+	pod 'Swinject'
+	pod 'RealmSwift'
+	
 
   target 'CryptoTrackerAppTests' do
     inherit! :search_paths

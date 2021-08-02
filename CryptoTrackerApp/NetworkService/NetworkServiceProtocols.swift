@@ -1,0 +1,1 @@
+//// Created by talgar osmonov on 23/7/21.//import Foundationprotocol CryptoNetworkProtocol {    func fetchCryptos(params: RequestParams, completion: @escaping CryptoResult)    func fetchCryptoInfo(slug: String, completion: @escaping CryptoInfoResult)    func searchForCrypto(slug: String, completion: @escaping CryptoPriceInfoResult)}

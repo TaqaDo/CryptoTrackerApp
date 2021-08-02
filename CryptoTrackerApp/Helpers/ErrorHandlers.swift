@@ -1,0 +1,1 @@
+//// Created by talgar osmonov on 23/7/21.//import Foundationenum NetworkError: Error {    case wrongUrl    case dataIsNil}enum StorageError: Error {    case cannotFetch}

@@ -1,0 +1,1 @@
+//// Created by talgar osmonov on 22/7/21.//import UIKitimport Kingfisherextension UIImageView {    func setImage(with url: String?) {        self.kf.setImage(with: URL(string: url ?? ""))    }}
