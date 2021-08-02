@@ -1,4 +1,8 @@
 # CryptoTrackerApp
+
+// NOTE:
+After clonning install all pods and open workspace
+//
 Features:
 
 Display a list of the most popular cryptocurrencies, 
