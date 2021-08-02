@@ -3,6 +3,7 @@
 // NOTE:
 After clonning install all pods and open workspace
 //
+
 Features:
 
 Display a list of the most popular cryptocurrencies, 
@@ -11,7 +12,6 @@ Cache the latest course values and display them on next launch,
 Saving the last successful result in database, 
 Error handling if there is no internet connection or any other network errors and display it on the UI, 
 Test Coverage.
-
 
 Used Satck:
 
